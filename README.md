@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Apurv Saha].
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Apurv Saha!.
 
 I work on developing softwares for robots with ROS and simulating it on Gazebo. I´m based in Bangalore(KA), India.
 
