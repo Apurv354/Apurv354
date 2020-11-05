@@ -8,7 +8,8 @@ Since 2018 I've been living and breathing Robotics and creating efficient softwa
 
 ### What I'm focusing on 👨‍💻
 
-Currently improving my Coding skills: Python, C++ and Go. I am also focusing to learn more about website development using ReactJS and Django<br />
+Currently improving my Coding skills: Python, C++ and Go.<br />
+ I am also focusing to learn more about website development using ReactJS and Django<br />
 Learning various Navigation ,Perception and Perception algorithms and use them in practical applications.<br />
 I am also fascinated about cloud robotics and trying to learn more on that aspect as well. Devops is evolving day by day and I a m trying my best to keep up the pace.
 
