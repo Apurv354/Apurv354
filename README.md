@@ -1,6 +1,6 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Apurv Saha!.
 
-I work on developing softwares for robots with ROS and simulating it on Gazebo. I´m based in Bangalore(KA), India.
+I work on developing softwares for robots with ROS and simulating it on Gazebo.
 
 Since 2018 I've been living and breathing Robotics and creating efficient software stacks integrating AI on them. I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through design & code. 
 
